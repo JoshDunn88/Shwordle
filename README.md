@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/https://github.com/JoshDunn88/Shwordle/blob/master/wordleCloneApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/JoshDunn88/Shwordle/blob/master/wordleCloneApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
